@@ -2,7 +2,7 @@
 
 ## Description:
 A website for an Online Marketing company. Refractored code by compressing CSS and making a more readable HTML. Assured website met accessiblity standards by creating alt attributes for screenreaders.
----
+
 ##Technology Used:
 *HTML
 *CSS
